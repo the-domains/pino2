@@ -1,0 +1,28 @@
+name: pino2
+favicon: null
+layout_spectrum: 0.8360169623047113
+typography_spectrum: 0.6024100100621581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9199801813811064
+  lightness: 0.7368473587557673
+  saturation: 0.6603425000794232
+  rhythmicContrast: 0.5864987187087536
+purpose: []
