@@ -4,8 +4,15 @@
         <description><![CDATA[pino2]]></description>
         <link>https://thegrid.ai/pino2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 01:22:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pino2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[LIVE SETS]]></title>
+            <description><![CDATA[<article><h1>LIVE SETS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56079c2e3f510a0162716333cbc797c64046d655.png"></article>]]></description>
+            <link>https://thegrid.ai/pino2/live-sets/index.html</link>
+            <guid isPermaLink="false">d3b938a7-8c94-4e00-8b99-737389a264b3</guid>
+            <pubDate>Tue, 08 Mar 2016 01:21:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/779ed98757bf6bac9c527d0b110059192be35953.jpg" alt="" title="">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/pino2/bio/index.html</link>
             <guid isPermaLink="false">e2af736b-1e6b-4dcd-96e5-3107ca16b932</guid>
             <pubDate>Tue, 08 Mar 2016 01:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[LIVE SETS]]></title>
-            <description><![CDATA[<article><h1>LIVE SETS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/56079c2e3f510a0162716333cbc797c64046d655.png"></article>]]></description>
-            <link>https://thegrid.ai/pino2/live-sets/index.html</link>
-            <guid isPermaLink="false">d3b938a7-8c94-4e00-8b99-737389a264b3</guid>
-            <pubDate>Tue, 08 Mar 2016 00:17:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
