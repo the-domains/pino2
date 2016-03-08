@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T02:42:12.877Z'
-dateModified: '2016-03-08T02:35:30.808Z'
+datePublished: '2016-03-08T02:51:15.988Z'
+dateModified: '2016-03-08T02:51:02.765Z'
 title: COLABORATORS
 author: []
 sourcePath: _posts/2016-03-08-colaborators.md
@@ -22,15 +22,16 @@ url: colaborators/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9d568df08943ec63ad6de51100cd102aca63ce63.jpg)
+[SUNTECH][0]
 
-SUNTECH
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/afc9c68ad70d2195806aa5b59902491361cf3659.jpg)
+[JHONNY LP][1]
 
-JHONNY LP
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1517a5684f646eab67629b6da6b42f15cc7d553f.png)
+[ONESTAR RECORDS][2]
 
-ONESTAR RECORDS
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a09e3d-297b-4fe0-a270-8859a1d654c8.png)
+[ARI DEEJAY][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcb2a9d2-360f-46f8-aa16-64a51e331e2f.jpg)
 
-ARI DEEJAY
+[0]: https://www.facebook.com/suntechdj/
+[1]: https://www.facebook.com/jhonnylpofficial/
+[2]: https://www.facebook.com/onestarrecordstv/
+[3]: https://www.facebook.com/arideejay?fref=ts
