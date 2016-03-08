@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-08T01:40:58.050Z'
-dateModified: '2016-03-08T01:40:49.037Z'
+datePublished: '2016-03-08T02:04:30.971Z'
+dateModified: '2016-03-08T01:51:16.193Z'
 title: COLABORATORS
 author: []
+sourcePath: _posts/2016-03-08-colaborators.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-colaborators.md
-published: true
 url: colaborators/index.html
 _type: Article
 
@@ -32,3 +32,5 @@ JHONNY LP
 
 ONESTAR RECORDS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/15a09e3d-297b-4fe0-a270-8859a1d654c8.png)
+
+ARI DEEJAY
