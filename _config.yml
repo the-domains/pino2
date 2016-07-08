@@ -1,6 +1,6 @@
 name: pino
 favicon: null
-layout_spectrum: 0.06345
+layout_spectrum: 0.12813
 typography_spectrum: 0.24759
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#020202'
-    - '#485458'
-    - '#d4e0e4'
-    - '#95a7ad'
-    - '#9c6e60'
-  brandStrength: 0.375
-  lightness: 0.5625
+    - '#0f1110'
+    - '#9fccff'
+    - '#ffffff'
+    - '#4a5826'
+    - '#99a33c'
+  brandStrength: 0.5
+  lightness: 0.625
   saturation: 0.8125
   rhythmicContrast: 0.75
 purpose: []
